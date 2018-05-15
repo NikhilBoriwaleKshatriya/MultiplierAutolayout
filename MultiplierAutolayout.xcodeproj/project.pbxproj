@@ -14,6 +14,8 @@
 		F1A24A0C20AAB4370051743D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F1A24A0A20AAB4370051743D /* LaunchScreen.storyboard */; };
 		F1A24A1720AAB4370051743D /* MultiplierAutolayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A24A1620AAB4370051743D /* MultiplierAutolayoutTests.swift */; };
 		F1A24A2220AAB4370051743D /* MultiplierAutolayoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1A24A2120AAB4370051743D /* MultiplierAutolayoutUITests.swift */; };
+		F1A24A3020AAE08E0051743D /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = F1A24A2F20AAE08E0051743D /* image.png */; };
+		F1A24A3220AAE1090051743D /* swiftpng.png in Resources */ = {isa = PBXBuildFile; fileRef = F1A24A3120AAE1090051743D /* swiftpng.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F1A24A1D20AAB4370051743D /* MultiplierAutolayoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MultiplierAutolayoutUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F1A24A2120AAB4370051743D /* MultiplierAutolayoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultiplierAutolayoutUITests.swift; sourceTree = "<group>"; };
 		F1A24A2320AAB4370051743D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F1A24A2F20AAE08E0051743D /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		F1A24A3120AAE1090051743D /* swiftpng.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = swiftpng.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +103,8 @@
 			children = (
 				F1A24A0120AAB4360051743D /* AppDelegate.swift */,
 				F1A24A0320AAB4360051743D /* ViewController.swift */,
+				F1A24A3120AAE1090051743D /* swiftpng.png */,
+				F1A24A2F20AAE08E0051743D /* image.png */,
 				F1A24A0520AAB4360051743D /* Main.storyboard */,
 				F1A24A0820AAB4370051743D /* Assets.xcassets */,
 				F1A24A0A20AAB4370051743D /* LaunchScreen.storyboard */,
@@ -235,6 +241,8 @@
 				F1A24A0C20AAB4370051743D /* LaunchScreen.storyboard in Resources */,
 				F1A24A0920AAB4370051743D /* Assets.xcassets in Resources */,
 				F1A24A0720AAB4360051743D /* Main.storyboard in Resources */,
+				F1A24A3220AAE1090051743D /* swiftpng.png in Resources */,
+				F1A24A3020AAE08E0051743D /* image.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
